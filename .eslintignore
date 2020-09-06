@@ -1,0 +1,6 @@
+*.min.js
+node_modules
+__build*
+coverage
+api-docs
+logs
